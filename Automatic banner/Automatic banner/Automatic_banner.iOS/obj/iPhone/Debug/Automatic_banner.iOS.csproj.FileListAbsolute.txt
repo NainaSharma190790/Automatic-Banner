@@ -1,0 +1,11 @@
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Automatic_banneriOS.exe
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Automatic_banneriOS.pdb
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\obj\iPhone\Debug\
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\obj\iPhone\Debug\Automatic_banner.iOS.csprojResolveAssemblyReference.cache
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\obj\iPhone\Debug\Automatic_banneriOS.exe
+c:\users\naina.sharma\documents\visual studio 2013\Projects\Automatic banner\Automatic banner\Automatic_banner.iOS\obj\iPhone\Debug\Automatic_banneriOS.pdb
